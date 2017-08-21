@@ -13,5 +13,11 @@ body {
 	align-items: center;
 	justify-content: center;
 	height: 100vh;
-	flex-direction: column;
+	flex-direction: column;	
+}
+
+#container p{
+	font-size: 10px;
+	font-family: Helvetica;
+	color: green;
 }
